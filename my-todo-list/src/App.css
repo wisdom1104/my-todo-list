@@ -63,7 +63,6 @@
 }
 
 .form input:hover,
-.form span:hover,
 .form button:hover {
   border: 2px solid steelblue;
 }
